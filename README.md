@@ -6,7 +6,7 @@ Building AI-enabled web applications with modern technologies. Passionate about 
 
 📍 **Based in:** Ras Al Khaimah, Dubai  
 💼 **Currently:** Full Stack Engineer at Aslase  
-🌐 **Portfolio:** [mianabubakar.com](https://mianabubakar.com)
+🌐 **Portfolio:** [mian-abubakar.vercel.app](https://mian-abubakar.vercel.app/)
 
 ---
 
@@ -115,7 +115,7 @@ Promoted from Frontend to Full Stack within 6 months
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mian-abubakar-7a87b2220)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2310b981.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mianabubakar.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2310b981.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mian-abubakar.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mabubakarmian583@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19768490)
 
